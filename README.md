@@ -12,3 +12,5 @@ By inputting a video (mp4 or stream), the model outputs an indication that an an
 
 SKU: PERIM-PS-SEC-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-ttc5t247xmuqu
+
